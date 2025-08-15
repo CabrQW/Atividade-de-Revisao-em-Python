@@ -2,5 +2,5 @@
 
 <h2>Grupo 5</h2>
 <p>Carlos Eduardo</p>
-<p>Filepe Machado</p>
+<p>Filipe Machado</p>
 <p>Guilherme Oliveira</p>
